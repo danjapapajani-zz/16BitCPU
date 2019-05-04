@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/Lab6/kit/part3/cpu
+vALU
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1552848105
+!i10b 1
+!s100 4:EfLO3O1?T]K9kgbc:L^2
+IZZD40K@eb?5AY9oZ_RcX:1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+R0
+w1551917284
+8ALU.sv
+FALU.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1552848105.000000
+Z6 !s107 datapath.sv|cpu.sv|control.sv|RF.sv|ALU.sv|
+Z7 !s90 -reportprogress|300|ALU.sv|RF.sv|control.sv|cpu.sv|datapath.sv|
+!i113 1
+Z8 tCvgOpt 0
+n@a@l@u
+vcontrol
+R1
+R2
+!i10b 1
+!s100 T:1J5e?NF4hc98jk9]T7:0
+ICSf1GQhPFm[R0J5XVmO1l1
+R3
+!s105 control_sv_unit
+S1
+R0
+w1552590162
+8control.sv
+Fcontrol.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vcpu
+R1
+R2
+!i10b 1
+!s100 b8KMnd[1PddESFVMjmh<J3
+I0@3V]=<Xnl]G^XQgD3TeP3
+R3
+!s105 cpu_sv_unit
+S1
+R0
+w1552588492
+8cpu.sv
+Fcpu.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vdatapath
+R1
+R2
+!i10b 1
+!s100 kW@AAUB4[WWlP6cO^MCdQ2
+I[AjOe?G1[WDJAL:SCL?]O2
+R3
+!s105 datapath_sv_unit
+S1
+R0
+w1552587803
+8datapath.sv
+Fdatapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vRF
+R1
+R2
+!i10b 1
+!s100 WlS9iU>@Jjah@Idc7mIX83
+I]G2b=mXGWDf<CF[A;hbfQ1
+R3
+!s105 RF_sv_unit
+S1
+R0
+w1551711808
+8RF.sv
+FRF.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@r@f
